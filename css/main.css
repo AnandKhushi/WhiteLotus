@@ -1,8 +1,7 @@
 /* 
 
-Foxeyoga - Premium Yoga and Wellness Html Template
-Copyright 2019  www.mutationmedia.net 
-Created by : mutationthemes  
+White Lotus 
+Created by : Something Interesting  
 
 */
 
@@ -1041,3 +1040,7 @@ ul.instafeed-list li {
 @media (min-width: 1200px) {
 }
 /*End mediaqueries*/
+
+.mr-2, .mx-2{
+   margin-bottom: 0.5rem;
+}
